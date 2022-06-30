@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Claudia Miranda"
 title_separator          : "-"
-name                     : &name "Claudia Miranda"
+name                     : &name "Home"
 description              : &description "PhD Student at University College London"
 url                      : https://claudia-miranda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
