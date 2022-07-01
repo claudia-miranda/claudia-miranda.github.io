@@ -14,7 +14,7 @@ Abstract: In this paper, we review the dimer covering problem and study the rand
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 MSc Project at King’s College London Mathematics Department, London, UK (supervised by Dr Gabriele Sicuro)
-June 2021 - September 2021
+June 2021 — September 2021
 
 In this paper, we review the dimer covering problem and study the random dimer problem on the weighted Aztec graph. We analysed the optimal solution at T = 0 and explored the weighted Aztec graph at finite temperature regimes using belief propagation algorithms. It was shown that the arctic circle phenomenon does not arise for low temperatures in the weighted Aztec graph problem.
 
