@@ -21,5 +21,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-   - title: "Conferences"
-    url: /conferences/
+  - title: "Conferences"
+  url: /conferences/
