@@ -3,6 +3,14 @@ main:
   - title: "Research"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Conferences"
+    url: /conferences/
+
+
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -14,12 +22,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   # - title: "Guide"
   #   url: /markdown/
-
-  - title: "Conferences"
-  url: /conferences/
