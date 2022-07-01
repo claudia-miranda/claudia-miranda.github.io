@@ -18,7 +18,7 @@ author_profile: true
   <li>BAMC 2022 (11th-13th April 2022, Loughborough)
 
 <h2>Poster Contributions:</h2>
-
+[Mathematical modelling of protein aggregation in sickle cell disease](/images/poster_1.png)
 
 
 
