@@ -2,7 +2,12 @@
 title: "The random dimer covering problem on the weighted Aztec graph."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'In this paper, we review the dimer covering problem and study the random dimer problem on the weighted Aztec graph. We analysed the optimal solution at T = 0 and explored the weighted Aztec graph at finite temperature regimes using belief propagation algorithms. It was shown that the arctic circle phenomenon does not arise for low temperatures in the weighted Aztec graph problem.'
+excerpt: '<b>MSc Project at King’s College London Mathematics Department, London, UK (supervised by Dr Gabriele Sicuro)</b><br>
+
+June 2021 - September 2021
+
+
+In this paper, we review the dimer covering problem and study the random dimer problem on the weighted Aztec graph. We analysed the optimal solution at T = 0 and explored the weighted Aztec graph at finite temperature regimes using belief propagation algorithms. It was shown that the arctic circle phenomenon does not arise for low temperatures in the weighted Aztec graph problem.'
 # date: 2010-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
