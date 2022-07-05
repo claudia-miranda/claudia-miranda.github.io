@@ -29,7 +29,6 @@ Work experience
 * Mathematics Learning Centre Tutor (April 2022)
   * UCL Mathematics Department
   * Duties included: Offering Q&A tutorials on several modules including Mathematical Methods 2, Fluid Mechanics, and Newtonian Mechanics.
-  * Supervisor: Professor Hub
 
 * Teaching Assistant and marker (September 2022 - Present)
   * UCL Mathematics Department
