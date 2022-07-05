@@ -1,7 +1,7 @@
 ---
 title: "Modelling in vitro cell competition: p53 -/- and WT cells in early gastrulation"
 collection: publications
-# permalink: 
+permalink: /publication/project_3
 excerpt: '<b>MSc Project at King’s College London Mathematics Department, London, UK (supervised by Dr Gabriele Sicuro)</b><br>
 
 September 2019 - March 2020
