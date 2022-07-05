@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claudia Miranda"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "PhD Student at University College London"
