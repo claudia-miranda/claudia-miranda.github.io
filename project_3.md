@@ -1,7 +1,6 @@
 ---
 title: "The random dimer covering problem on the weighted Aztec graph"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: '<b>MSci Project at UCL Mathematics Department, London, UK (supervised by Dr Ruben Perez-Carrasco)</b><br>
 
 September 2019 — March 2020

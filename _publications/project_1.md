@@ -1,7 +1,7 @@
 ---
 title: "Multiscale modelling and control of aggregation in sickle cell populations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/project_1
 excerpt: '<b>PhD Project at UCL Mathematics Department, London, UK (supervised by Dr Philip Pearce and Dr Thomas Michaels)</b><br>
 
 September 2021 - Present test 

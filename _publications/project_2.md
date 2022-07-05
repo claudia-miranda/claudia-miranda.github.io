@@ -1,7 +1,7 @@
 ---
 title: "The random dimer covering problem on the weighted Aztec graph"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/project_2
 excerpt: '<b>MSc Project at King’s College London Mathematics Department, London, UK (supervised by Dr Gabriele Sicuro)</b><br>
 
 June 2021 - September 2021
