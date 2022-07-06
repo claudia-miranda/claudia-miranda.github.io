@@ -1,5 +1,5 @@
 ---
-title: "The random dimer covering problem on the weighted Aztec graph"
+title: "Modelling in vitro cell competition p53 and WT cells in early gastrulation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '<b>MSc Project at King’s College London Mathematics Department, London, UK (supervised by Dr Gabriele Sicuro)</b><br>
