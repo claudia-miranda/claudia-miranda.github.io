@@ -1,15 +1,15 @@
 ---
-title: "Modelling in vitro cell competition: p53 -/- and WT cells in early gastrulation"
+title: "Multiscale modelling and control of aggregation in sickle cell populations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '<b>MSci Project at UCL Mathematics Department, London, UK (supervised by Dr Ruben Perez-Carrasco)</b><br>
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: '<b>PhD Project at UCL Mathematics Department, London, UK (supervised by Dr Philip Pearce and Dr Thomas Michaels)</b><br>
 
-September 2019 — March 2020
+September 2021 — Present
 
 
-Abstract: The aim of this project is to understand cell competition in the context of early in vitro gastrulation. To do so, we construct two models. On the one hand, a deterministic continuous model, and on the other, a stochastic agent-based model. The agent-based models allowed us to study the role of diffusion and interaction length unravelling the different dynamics of cell-cell competition.'
-# date: 2015-10-01
+Abstract: Despite decades of work on elucidating the mechanisms of HbS aggregation and RBC sickling, measurements of hemoglobin polymerisation in heterogeneous cell population distributions are only recently starting to be made. In this project, we will develop a mathematical model of HbS aggregation kinetics in heterogeneous cell populations. The aim is to understand the assortment of polymers in cells and determine the distribution of mechanical properties of cells (stiffness).  To do so, we will combine theory of aggregation, control theory, and coarse-grained simulations. '
+# date: 2009-10-01
 # venue: 'Journal 1'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
