@@ -9,7 +9,7 @@ September 2021 — Present
 
 Abstract: Despite decades of work on elucidating the mechanisms of HbS aggregation and RBC sickling, measurements of hemoglobin polymerisation in heterogeneous cell population distributions are only recently starting to be made. In this project, we will develop a mathematical model of HbS aggregation kinetics in heterogeneous cell populations. The aim is to understand the assortment of polymers in cells and determine the distribution of mechanical properties of cells (stiffness).  To do so, we will combine theory of aggregation, control theory, and coarse-grained simulations.<br><br>
 
-![Msc Project](phd_pic.png | width=100)'
+![Msc Project](phd_pic.png|width=100)'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
