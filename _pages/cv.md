@@ -32,7 +32,7 @@ Work experience
 
 * Teaching Assistant and marker (September 2022 - Present)
   * UCL Mathematics Department
-  * Duties included: Leading Y2 tutorials, marking weekly problem sheets, marking exams.
+  * Duties included: Leading Y2 tutorials, problem sheet marking, exam marking.
   
 Skills
 ======
