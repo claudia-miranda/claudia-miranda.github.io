@@ -22,7 +22,7 @@ Please, see "Research" tab.
   
 Work experience
 ======
-* Year 1 Project Supervisor (June 2022)
+* Year 1 Project Supervisor (June 2022 and June 2023)
   * UCL Mathematics Department
   * Duties included: Supervising several groups of Y1 Mathematics undergradutes on their summer research project
 
