@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UCL Mathematics Department, co-supervised by [Philip Pearce](https://www.ucl.ac.uk/~ucahppe/) and [Thomas Michaels](https://www.ucl.ac.uk/lmcb/users/thomas-michaels). I use theory of aggregation and coarse-grained simulations to understand the intracellular mechanisms that characterise sickle cell disease – HbS polymerisation. When I am not debugging code, I enjoy composing and arranging music, practising martial arts, and doing scientific outreach.
+I am a PhD student at UCL Mathematics Department, co-supervised by [Philip Pearce](https://www.ucl.ac.uk/~ucahppe/) and [Thomas Michaels](https://www.ucl.ac.uk/lmcb/users/thomas-michaels](https://bc.biol.ethz.ch/research/michaels-group.html). I use theory of aggregation and coarse-grained simulations to understand the intracellular mechanisms that characterise sickle cell disease – HbS polymerisation. When I am not debugging code, I enjoy composing and arranging music, practising martial arts, and doing scientific outreach.
 
 <h2>Research Interests</h2>
 <ul>
