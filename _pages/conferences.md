@@ -42,5 +42,5 @@ WIMD 2022
 ![WIMD 2022](/images/WIMD_2022.PNG)
 
 In2Science 2022 (in collaboration with A. Herale, V. Leech, and S. Harris, idea inspired by Dr Perez Carrasco's MathEco lectures)
-![In2Science 2022](/Pokemon_Ecology_In2Science.PNG)
+![In2Science 2022](/images/Pokemon_Ecology_In2Science.PNG)
 
