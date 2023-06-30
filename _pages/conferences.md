@@ -41,7 +41,7 @@ WIMD 2023
 ![WIMD 2023](/images/WIMD_2023.PNG)
 
 
-Slide for Dr Rila's Camden Girls High School visit
+Slide for Dr Rila's Camden Girls High School visit (2023)
 
 ![CHSV 2023](/images/Camden_Girls_School_2023.PNG)
 
