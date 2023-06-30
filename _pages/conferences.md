@@ -23,9 +23,11 @@ Research Posters & Talks (title slide only):
 ======
 
 BAMC 2023
+
 ![BAMC 2023](/images/BAMC_2023.PNG)
 
 BAMC 2022
+
 ![Mathematical modelling of protein aggregation in sickle cell disease](/images/poster_1.png)
 
 
@@ -33,14 +35,18 @@ Outreach Talks (title slide only):
 ======
 
 WIMD 2023
+
 ![WIMD 2023](/images/WIMD_2023.PNG)
 
 Slide for Dr Rila's Camden Girls High School visit
+
 ![CHSV 2023](/images/Camden_Girls_School_2023.PNG)
 
 WIMD 2022
+
 ![WIMD 2022](/images/WIMD_2022.PNG)
 
-In2Science 2022 (in collaboration with A. Herale, V. Leech, and S. Harris, idea inspired by Dr Perez Carrasco's MathEco lectures)
+In2Science 2022 (in collaboration with A. Herale, V. Leech, and S. Harris & idea inspired by Dr Perez Carrasco's MathEco lectures)
+
 ![In2Science 2022](/images/Pokemon_Ecology_In2Science.PNG)
 
