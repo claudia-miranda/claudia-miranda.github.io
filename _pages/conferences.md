@@ -7,17 +7,22 @@ author_profile: true
 
 Upcoming:
 ======
-- UCL Women in Mathematics Day (3rd July 2023, London)
-- European Study Group with Industry (17th-21st July 2023, Edinburgh)
+- BAMC (joint with BMC) 2025 (23rd-26th June 2025, Exeter, UK)
 
 Past:
 ======
-- BAMC 2023 (3rd-5th April 2023, Bristol)
-- ECMTB (19th-23rd September 2022, Heidelberg)
-- UK Graduate Modelling Camp (12th-15th July 2022, Cambridge) (Awarded Top Student Prize within their group)
-- UCL Women in Mathematics Day (4th July 2022, London)
-- Physics of Life Summer School 2022 (25th-29th April 2022, Edinburgh)
-- BAMC 2022 (11th-13th April 2022, Loughborough)
+- INTERPHACE symposium (24th February 2025, London, UK)
+- ICERM Women in Computational and Mathematical Biology Workshop (13th-19th January 2025, Providence, RI, US)
+- London MathBio conference (9th-10th September 2024, London, UK)
+- BAMC 2024 (9th-11th April 2024, Newcastle, UK)
+- UCL Women in Mathematics Day (3rd July 2023, London, UK)
+- European Study Group with Industry (17th-21st July 2023, Edinburgh, UK)
+- BAMC 2023 (3rd-5th April 2023, Bristol, UK)
+- ECMTB (19th-23rd September 2022, Heidelberg, Germany)
+- UK Graduate Modelling Camp (12th-15th July 2022, Cambridge, UK) (Awarded Top Student Prize within their group)
+- UCL Women in Mathematics Day (4th July 2022, London, UK)
+- Physics of Life Summer School 2022 (25th-29th April 2022, Edinburgh, UK)
+- BAMC 2022 (11th-13th April 2022, Loughborough, UK)
 
 
 Research Posters & Talks (title slide only):
